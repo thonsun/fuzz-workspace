@@ -1,0 +1,149 @@
+module annotations {
+  namespace "urn:annot";
+  prefix annot;
+  yang-version 1.1;
+
+  import ietf-yang-metadata {
+    prefix md;
+  }
+
+  md:annotation id {
+    type string;
+  }
+
+  container parrent {
+    leaf-list child {
+      type string;
+    }
+  }
+
+  md:annotation abin {
+    type binary;
+  }
+
+  md:annotation abits {
+    type bits {
+      bit CF;
+      bit {
+        type string;
+      }
+      leaf leaf0.3 {
+        type string;
+      }
+      leaf leaf0.4 {
+        type string;
+      }
+      leaf leaf0.5 {
+        type string;
+      }
+      leaf leaf0.6 {
+        type string;
+      }
+      leaf leaf0.7 {
+        type string;
+      }
+      leaf leaf0.8 {
+        type string;
+      }
+      leaf leaf0.9 {
+        type string;
+      }
+      leaf leaf0.10 {
+        type string;
+      }
+      leaf leaf0.11 {
+        type string;
+      }
+      leaf leaf0.12 {
+        type string;
+      }
+      leaf leaf0.13 {
+        type string;
+      }
+      leaf leaf0.14 {
+        type string;
+      }
+      leaf leaf0.15 {
+        type string;
+      }
+      leaf leaf0.16 {
+        type string;
+      }
+      leaf leaf0.17 {
+        type string;
+      }
+      leaf leaf0.18 {
+        type string;
+      }
+      leaf leaf0.19 {
+        type string;
+      }
+      leaf leaf0.20 {
+        type string;
+      }
+      leaf leaf0.21 {
+        type string;
+      }
+      leaf leaf0.22 {
+        type string;
+      }
+      leaf leaf0.23 {
+        type string;
+      }
+      leaf leaf0.24 {
+        type string;
+      }
+      leaf leaf0.25 {
+        type string;
+      }
+      leaf leaf0.26 {
+        type string;
+      }
+      leaf leaf0.27 {
+        type string;
+      }
+      leaf leaf0.28 {
+        type string;
+      }
+      leaf leaf0.29 {
+        type string;
+      }
+ leaf leaf2.28 {
+          type string;
+        }
+        leaf leaf2.29
+{           type string;
+            }
+      leaf leaf1.490 {
+        type string;
+      }
+      leaf leaf1.491 {
+        type string;
+      }
+      leaf leaf1.492 {
+        type string;
+      }
+      leaf leaf1.493 {
+        type string;
+      }
+      leaf leaf1.494 {
+        type string;
+      }
+      leaf leaf1.495 {
+        type string;
+      }
+      leaf leaf1.496 {
+        type string;
+      }
+      leaf leaf1.497 {
+        type string;
+      }
+      leaf leaf1.498 {
+        type string;
+      }
+      leaf leaf1.499 {
+        type string;
+      }
+    }
+  }
+}

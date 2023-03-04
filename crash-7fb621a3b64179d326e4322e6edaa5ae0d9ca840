@@ -1,0 +1,12 @@
+module yang {
+
+    prefix abc;
+    namespace "ht/www.example.c;
+-versin~ 0.1   containerLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLre lse;
+if-feature DDDDDDDDDDDD,DDLLLLLLLLLTL)ont1 { //x" {}  augment "/auDDDDDDDDDDDDDDLLLLLLLLLLLLLLLrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrsubmodrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrtrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrLLLLLLLLLLLLLLLLLLLLLau" {
+	container c { 		uses egroup0 {
+ if-feature "feat2"; if-feature lse;
+
+} }
+  }
+}
